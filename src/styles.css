@@ -1,0 +1,26 @@
+@media (max-width: 768px) {
+  .hero {
+    flex-direction: column;
+    text-align: center;
+    padding: 40px 20px;
+  }
+
+  .hero-image {
+    text-align: center;
+  }
+
+  .navbar {
+    flex-wrap: wrap;
+    padding: 15px 30px;
+  }
+
+  .nav-links {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .feature-cards {
+    flex-direction: column;
+    align-items: center;
+  }
+}
